@@ -1,14 +1,23 @@
 {
-//nom de l'extension
-"manifest_version": 2,
-"name": "PornoVirus",
-"version": "1.0",
-"content_scripts": [
-  {
-    "matches": [
-      "https://www.pornhub.com/"
-    ],
-    "js": ["content.js"]
-  }
-]
+    "manifest_version": 2,
+    "name": "POV",
+    "description": "get a better experience for your pleasure websites!",
+    "version": "1.0",
+    "icons": {
+    
+      "16": "/images/pov_16.png",
+      "48": "/images/pov_48.png",
+      "128": "/images/pov_128.png"
+    },
+    
+    "page_action": {
+    "default_icon": {
+      "16": "/images/pov_16.png",
+      "48": "/images/pov_48.png",
+      "128": "/images/pov_128.png"
+    }
+    },
+
+    "content_scripts": [{}]
+   
 }
