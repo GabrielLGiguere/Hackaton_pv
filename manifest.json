@@ -1,0 +1,14 @@
+{
+//nom de l'extension
+"manifest_version": 2,
+"name": "PornoVirus",
+"version": "1.0",
+"content_scripts": [
+  {
+    "matches": [
+      "https://www.pornhub.com/"
+    ],
+    "js": ["content.js"]
+  }
+]
+}
