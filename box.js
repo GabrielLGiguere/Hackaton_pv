@@ -1,6 +1,6 @@
 let person = prompt("Comprends-tu qu'il s'agit de pornographie raciste?");
 let text;
-if (person == "Oui") {
+if (person == "Oui" || person == "oui") {
   text = "Hello " + person + "! How are you today?";
 } else {
   window.open("https://montreal.ctvnews.ca/mobile/international-women-s-rights-advocates-call-on-canada-to-hold-pornhub-to-account-1.5471518");
