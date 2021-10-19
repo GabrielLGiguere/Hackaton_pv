@@ -1,2 +1,3 @@
 
-alert('testestest.')
+
+alert("*****************************Attention***********************************\n Vous vous apprêtez à visiter un site internet ayant du contenu qui peut porter atteinte aux droits, aux libertés et à l’intégrité d’autrui.\nEn 2021 PornHub est accusé d’avoir diffusé des vidéos d’agressions sexuelles envers des mineurs et d’avoir refusé de retirer ces vidéos.\n Les vidéos sur ce site sont gratuites et beaucoup d’entre-elles sont publiées et mise en ligne pour diffusion gratuite sans le consentement et sans rémunération des travailleur.es du sexe qui ont participés aux vidéos.\nPornHub participe à la stigmatisation, aux préjugés et à la fétichisation des personnes BIPOC, LGBTQ2+ et ayant une situation d’handicap.\nCe site participe aussi à l’hypersexualisation des personnes mineures.")
