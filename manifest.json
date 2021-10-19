@@ -20,7 +20,7 @@
 
     "content_scripts": [
       {
-      "matches": ["https://www.pornhub.com/"],
+      "matches": ["https://www.pornhub.com/*"],
       
       "js": ["content.js","box.js"]
     }
